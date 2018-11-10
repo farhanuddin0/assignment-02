@@ -1,10 +1,10 @@
-span {
-    color: blue;
-}
-
 .p1 {
     border: 2px solid mediumblue;
     margin: 10px 30px 36px 15px;
+}
+
+.p1 span {
+    color: blue;
 }
 
 .p2 {
